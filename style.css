@@ -1,0 +1,46 @@
+.table1 {
+    border-collapse: collapse;
+    border: 2px solid grey;
+ }
+.table1 th {
+    border: 1px solid grey;
+    background-color: rgba(182, 182, 182, 0.5);
+ }
+
+ .table1 td {
+    border: 1px solid grey;
+ }
+
+ .table1 th, td {
+    padding: 10px 15px;
+ }
+
+ .table1 tfoot{
+    background-color: rgba(82, 82, 82, 0.5);
+    text-align: right;
+    font-weight: bold;
+ }
+
+ /*task3***************************************************/
+ .table2 {
+   border-collapse: collapse;
+   border: 2px solid grey;
+}
+.table2 th {
+   border: 1px solid grey;
+   background-color: rgba(182, 182, 182, 0.5);
+}
+
+.table2 td {
+   border: 1px solid grey;
+}
+
+.table2 th, td {
+   padding: 10px 15px;
+}
+caption {
+   caption-side: top;
+   text-align: center;
+   padding: 10px 0;
+   font-size: 14px;
+}
